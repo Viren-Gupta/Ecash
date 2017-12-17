@@ -1,5 +1,8 @@
 # Ecash
 
+Tools used:
+Vertx
+
 Description of the problem scenario
 Seekers-R-Us is a non-profit organization engaged in social welfare through spiritual upliftment of the members/citizens. The organization is spread across the globe and holds meetings at its major centers throughout the year. Each meeting is attended by 200,000 to 300,000 visitors. The major centres of Seeker-R-Us have the necessary physical infrastructure to cater for boarding and lodging, food and beverages and other items of daily basic needs. These items are sold at the points of sale (PoS) which are spread across different buildings in each center.  Each center roughly has about 4-5 dozen PoS stalls. The PoS stalls accept payment in the form of paper based cash coupons which a visitor buys from designated stalls/kiosks in the center.
 
